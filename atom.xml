@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fauchard.top</id>
     <title>fauchardGridea</title>
-    <updated>2021-05-29T09:36:54.523Z</updated>
+    <updated>2021-05-29T10:11:08.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fauchard.top"/>
     <link rel="self" href="https://fauchard.top/atom.xml"/>
@@ -15,12 +15,14 @@
         <id>https://fauchard.top/post/hello-gridea/</id>
         <link href="https://fauchard.top/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2021-05-29T10:10:46.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意...<br>
+🎶 前端部署在netlify 啦，添加了域名和证书啊</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意...<br>
+🎶 前端部署在netlify 啦，添加了域名和证书啊</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
@@ -40,6 +42,68 @@
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我😀]]></title>
+        <id>https://fauchard.top/post/guan-yu-wo/</id>
+        <link href="https://fauchard.top/post/guan-yu-wo/">
+        </link>
+        <updated>2021-05-29T10:03:43.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<ul>
+<li>打代码，博客🎇</li>
+<li>网易云一起听歌吖🎈</li>
+<li>健身（能做150个俯卧撑）(ง •_•)ง</li>
+<li>平时看看YouTube，有宝藏up主一起分享吖✨</li>
+</ul>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h1 id="关于作者">关于作者</h1>
+<ul>
+<li>正在读大二</li>
+<li>软件技术专业，打算走前端路线</li>
+</ul>
+<h1 id="有问题反馈联系我呀">📬 有问题反馈联系我呀</h1>
+<p>在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流</p>
+<ul>
+<li>邮件(liangfacan@gmail.com)</li>
+<li>微信:fauchardleung</li>
+<li>fackbook:<a href="https://www.facebook.com/FauchardLiang/">@liangfacan</a></li>
+<li>instagram:<a href="https://www.instagram.com/ifauchard/">@ifauchard</a></li>
+<li>twitter: <a href="https://twitter.com/liangfacan">@liangfacan</a></li>
+<li>博客地址: http://ivolcano.top</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<ul>
+<li>打代码，博客🎇</li>
+<li>网易云一起听歌吖🎈</li>
+<li>健身（能做150个俯卧撑）(ง •_•)ง</li>
+<li>平时看看YouTube，有宝藏up主一起分享吖✨</li>
+</ul>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h1 id="关于作者">关于作者</h1>
+<ul>
+<li>正在读大二</li>
+<li>软件技术专业，打算走前端路线</li>
+</ul>
+<h1 id="有问题反馈联系我呀">📬 有问题反馈联系我呀</h1>
+<p>在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流</p>
+<ul>
+<li>邮件(liangfacan@gmail.com)</li>
+<li>微信:fauchardleung</li>
+<li>fackbook:<a href="https://www.facebook.com/FauchardLiang/">@liangfacan</a></li>
+<li>instagram:<a href="https://www.instagram.com/ifauchard/">@ifauchard</a></li>
+<li>twitter: <a href="https://twitter.com/liangfacan">@liangfacan</a></li>
+<li>博客地址: http://ivolcano.top</li>
+</ul>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
