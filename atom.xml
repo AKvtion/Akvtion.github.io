@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>liangfacan@gmail.com</id>
+    <title>Fauchard</title>
+    <updated>2021-06-18T13:29:27.372Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="liangfacan@gmail.com"/>
+    <link rel="self" href="liangfacan@gmail.com/atom.xml"/>
+    <subtitle>记录点滴美好生活</subtitle>
+    <logo>https://z3.ax1x.com/2021/06/18/RSpxBR.jpg</logo>
+    <icon>https://z3.ax1x.com/2021/06/18/RSpxBR.jpg</icon>
+    <rights>All rights reserved 2021, Fauchard</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我~😀]]></title>
+        <id>https://liangfacan@gmail.com/https://fauchard.top/guan-yu-wo/</id>
+        <link href="https://liangfacan@gmail.com/https://fauchard.top/guan-yu-wo/"/>
+        <updated>2021-06-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+欢迎来到我的小站呀，很高兴遇见你！🤝
+喜欢尝试新事物，对小众的东西也有特别的兴趣
+
+⛹ 兴趣爱好
+
+打代码，博客🎇
+网易云一起听歌吖🎈
+健身（能做150个俯卧撑）(ง •_•)ง
+平时看看YouTube，有宝藏up主一起分享吖✨
+
+...]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝<br>
+喜欢尝试新事物，对小众的东西也有特别的兴趣</p>
+</blockquote>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<ul>
+<li>打代码，博客🎇</li>
+<li>网易云一起听歌吖🎈</li>
+<li>健身（能做150个俯卧撑）(ง •_•)ง</li>
+<li>平时看看YouTube，有宝藏up主一起分享吖✨</li>
+</ul>
+<h2 id="关于本站">🏠 关于本站</h2>
+<h1 id="关于作者">关于作者</h1>
+<ul>
+<li>正在读大二</li>
+<li>软件技术专业，打算走前端路线，看后面的情况啦</li>
+</ul>
+<h1 id="有问题反馈联系我呀">📬 有问题反馈联系我呀</h1>
+<p>在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流</p>
+<ul>
+<li>邮件(liangfacan@gmail.com)</li>
+<li>微信:fauchardleung</li>
+<li>fackbook:<a href="https://www.facebook.com/FauchardLiang/">@liangfacan</a></li>
+<li>instagram:<a href="https://www.instagram.com/ifauchard/">@ifauchard</a></li>
+<li>twitter: <a href="https://twitter.com/liangfacan">@liangfacan</a></li>
+<li>博客地址: <a href="https://fauchard.com">@fauchard</a></li>
+</ul>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
